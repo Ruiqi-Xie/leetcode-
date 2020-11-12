@@ -1,6 +1,6 @@
-# Gitbook 使用入门
+# leetcode 刷题记录
 
 
-> GitBook 是一个基于 Node.js 的命令行工具，可使用 Github/Git 和 Markdown 来制作精美的电子书。
+> leetcode使用python刷题记录
 
-本书将简单介绍如何安装、编写、生成、发布一本在线图书。
+本书将简单记录使用python刷题leetcode的记录。
