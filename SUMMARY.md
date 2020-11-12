@@ -2,8 +2,8 @@
 
 * [简介](README.md)
 * [数组](array/README.md)
-   * [两数之和](array/两数之和.md)
-   * [Gitbook安装](installation/gitbook-install.md)
+   * [1. 两数之和](array/1. 两数之和.md)
+   * [4. 寻找两个正序数组的中位数](array/4. 寻找两个正序数组的中位数.md)
    * [Gitbook命令行速览](installation/gitbook-cli.md)
 * [图书项目结构](book/README.md)
    * [README.md 与 SUMMARY编写](book/file.md)
