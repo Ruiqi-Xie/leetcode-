@@ -2,7 +2,7 @@
 
 * [简介](README.md)
 * [数组](数组/README.md)
-   * [1.两数之和](数组/1两数之和.md)
+   * [1两数之和](数组/1两数之和.md)
    * [Gitbook安装](installation/gitbook-install.md)
    * [Gitbook命令行速览](installation/gitbook-cli.md)
 * [图书项目结构](book/README.md)
