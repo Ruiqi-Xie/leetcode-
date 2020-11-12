@@ -1,15 +1,87 @@
-给定一个整数数组 nums 和一个目标值 target，请你在该数组中找出和为目标值的那 两个 整数，并返回他们的数组下标。
+{
+    "title": "Blankj's Glory",
+    "author": "Blankj",
+    "description": "select * from learn",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "styles": {
+        "website": "./styles/website.css"
+    },
+    "structure": {
+        "readme": "README.md"
+    },
+    "links": {
+        "sidebar": {
+            "我的狗窝": "https://blankj.com"
+        }
+    },
+    "plugins": [
+        "-sharing",
+        "splitter",
+        "expandable-chapters-small",
+        "anchors",
 
-你可以假设每种输入只会对应一个答案。但是，数组中同一个元素不能使用两遍。
-
-```
-class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        res={}
-        for i,v in enumerate(nums):
-            n=target-v
-            if n not in res:
-                res[v]=i  
-            else: 
-                return [res[n],i]
- ```
+        "github",
+        "github-buttons",
+        "donate",
+        "sharing-plus",
+        "anchor-navigation-ex",
+        "favicon"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/Blankj"
+        },
+        "github-buttons": {
+            "buttons": [{
+                "user": "Blankj",
+                "repo": "glory",
+                "type": "star",
+                "size": "small",
+                "count": true
+                }
+            ]
+        },
+        "donate": {
+            "alipay": "./source/images/donate.png",
+            "title": "",
+            "button": "赞赏",
+            "alipayText": " "
+        },
+        "sharing": {
+            "douban": false,
+            "facebook": false,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qq": false,
+            "qzone": false,
+            "stumbleupon": false,
+            "twitter": false,
+            "viber": false,
+            "vk": false,
+            "weibo": false,
+            "whatsapp": false,
+            "all": [
+                "google", "facebook", "weibo", "twitter",
+                "qq", "qzone", "linkedin", "pocket"
+            ]
+        },
+        "anchor-navigation-ex": {
+            "showLevel": false
+        },
+        "favicon":{
+            "shortcut": "./source/images/favicon.jpg",
+            "bookmark": "./source/images/favicon.jpg",
+            "appleTouch": "./source/images/apple-touch-icon.jpg",
+            "appleTouchMore": {
+                "120x120": "./source/images/apple-touch-icon.jpg",
+                "180x180": "./source/images/apple-touch-icon.jpg"
+            }
+        }
+    }
+}
