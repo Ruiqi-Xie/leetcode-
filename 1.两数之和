@@ -2,3 +2,14 @@
 
 你可以假设每种输入只会对应一个答案。但是，数组中同一个元素不能使用两遍。
 
+```
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        res={}
+        for i,v in enumerate(nums):
+            n=target-v
+            if n not in res:
+                res[v]=i  
+            else: 
+                return [res[n],i]
+ ```
