@@ -1,5 +1,5 @@
 # 数组类算法
 
-{记录leetcode中的数组}
+[嘿嘿嘿](https://giphy.com/gifs/thebachelorette-bachelorette-the-bacheloretteabc-0pZzmPTbYj9li1h2nh/)
 
 > 刷题
