@@ -6,6 +6,7 @@
    * [4. 寻找两个正序数组的中位数](array/4.寻找两个正序数组的中位数.md)
    * [11. 盛最多水的容器](array/11.盛最多水的容器.md)
    * [15. 三数之和](array/15.三数之和.md)
+   * [16. 最接近的三数之和](array/16. 最接近的三数之和.md)
 * [图书项目结构](book/README.md)
    * [README.md 与 SUMMARY编写](book/file.md)
    * [目录初始化](book/prjinit.md)
