@@ -8,7 +8,7 @@
    * [15. 三数之和](array/15.三数之和.md)
    * [16. 最接近的三数之和](array/16.最接近的三数之和.md)
 * [链表](linked list/README.md)
-   * [README.md 与 SUMMARY编写](linked list/2.两数相加.md)
+   * [2.两数相加](linked list/2.两数相加.md)
    * [目录初始化](book/prjinit.md)
 * [图书输出](output/README.md)
    * [输出为静态网站](output/static.md)
