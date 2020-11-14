@@ -7,7 +7,7 @@
    * [11. 盛最多水的容器](array/11.盛最多水的容器.md)
    * [15. 三数之和](array/15.三数之和.md)
    * [16. 最接近的三数之和](array/16.最接近的三数之和.md)
-* [链表]
+* [链表](linked list/README.md)
    * [2.两数相加](linked list/2.两数相加.md)
    * [目录初始化](book/prjinit.md)
 * [图书输出](output/README.md)
