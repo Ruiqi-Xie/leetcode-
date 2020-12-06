@@ -9,7 +9,7 @@
    * [16. 最接近的三数之和](array/16.最接近的三数之和.md)
 * [链表](linked-list/README.md)
    * [2. 两数相加](linked-list/2.两数相加.md)
-   * [19. 删除链表的倒数第N个节点](linked-list/19. 删除链表的倒数第N个节点.md)
+   * [19.删除链表的倒数第N个节点](linked-list/19.删除链表的倒数第N个节点.md)
    * [21.合并两个有序链表](linked-list/21.合并两个有序链表.md)
 * [图书输出](output/README.md)
    * [输出为静态网站](output/static.md)
