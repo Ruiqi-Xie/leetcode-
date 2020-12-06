@@ -11,7 +11,7 @@
    * [2.两数相加](linked-list/2.两数相加.md)
    * [19.删除链表的倒数第N个节点](linked-list/19.删除链表的倒数第N个节点.md)
    * [21.合并两个有序链表](linked-list/21.合并两个有序链表.md)
-   * [23.合并K个升序链表.md](linked-list/23.合并K个升序链表.md)
+   * [23.合并K个升序链表](linked-list/23.合并K个升序链表.md)
 * [图书输出](output/README.md)
    * [输出为静态网站](output/static.md)
    * [输出PDF](output/pdfandebook.md)
